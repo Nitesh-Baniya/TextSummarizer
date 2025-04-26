@@ -4,6 +4,9 @@
 
 This project demonstrates how to fine-tune a pre-trained model (`google/pegasus-cnn_dailymail`) for the task of **English text summarization**. The model was fine-tuned using the **Samsum dataset**, which contains over 16K conversations between two people, resembling chat-like dialogues. The aim of the project is to generate summaries that are more related to the specific dialogues from the dataset, enhancing the performance of the summarization model on dialogue-based content.
 
+A copy of the trained model and tokenizer can be found on [Google Drive](https://drive.google.com/drive/folders/1-V95H3E-KAgCD3-6_EooW8PJooYLvC6P?usp=drive_link).
+
+
 ## Project Details
 
 ### Libraries and Tools Used:
